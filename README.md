@@ -1,7 +1,11 @@
-# Getting Started with Create React App
+# Anti-restaurant
+
+The projects depicts a restaurant website, and does not have a form or interactive elements. .\
+It is inspired by the course "The Ultimate React Course 2025: React, Next.js, Redux & More" .\
+I created this project to learn the basics of React. .\
+Project available online: https://antirestaurant.netlify.app .\
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Project availab;e online: https://antirestaurant.netlify.app
 
 ## Available Scripts
 
